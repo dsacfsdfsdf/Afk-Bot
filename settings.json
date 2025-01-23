@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "NguoiDaDen",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "ToiletWorld.aternos.me",
+    "port": 56493,
+    "version": "1.21.4"
   },
 
   "position": {
